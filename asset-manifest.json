@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/nmocherniuk/react-expenses-list.git/static/css/main.9d78324d.css",
-    "main.js": "/nmocherniuk/react-expenses-list.git/static/js/main.ee2911b4.js",
-    "index.html": "/nmocherniuk/react-expenses-list.git/index.html",
-    "main.9d78324d.css.map": "/nmocherniuk/react-expenses-list.git/static/css/main.9d78324d.css.map",
-    "main.ee2911b4.js.map": "/nmocherniuk/react-expenses-list.git/static/js/main.ee2911b4.js.map"
+    "main.css": "/react-expenses-list/static/css/main.9d78324d.css",
+    "main.js": "/react-expenses-list/static/js/main.ee2911b4.js",
+    "index.html": "/react-expenses-list/index.html",
+    "main.9d78324d.css.map": "/react-expenses-list/static/css/main.9d78324d.css.map",
+    "main.ee2911b4.js.map": "/react-expenses-list/static/js/main.ee2911b4.js.map"
   },
   "entrypoints": [
     "static/css/main.9d78324d.css",
